@@ -1,0 +1,50 @@
+﻿/**
+ * @name Fu Hua
+ * @author 『C̷๏r̫̫』#4697
+ * @version 2.0
+ * @description The Untouchable Fighter.
+ * @invite 5TqHBWZ9Gd
+*/
+
+@import url('https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/AdjustableServerWidth/base.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+@import url("https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/base.css");
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk');
+
+:root {
+  --background-image: url('https://i.ytimg.com/vi/aWcJ3ROSYZE/maxresdefault.jpg');
+  --friends-icon: url('https://s1.zerochan.net/Fu.Hua.600.2609513.jpg');
+  --friends-icon-zoom: 114%;
+  --friends-icon-position: center center;
+  --main-color: rgb(255,193,7);
+  --serverlist-brightness: 0.65;
+  --left-brightness: 0.75;
+  --middle-brightness: 0.55;
+  --right-brightness: 0;
+  --main-transparency: rgba(0,0,0,0.61);
+  --hover-list-bg-color: rgba(160,134,0,1);
+  --border-lines-color: rgba(103,58,183,1);
+  --scroll-bar-color: rgba(125,81,4,0.38);
+  --selected-text-voice-color: #b39018;
+  --channel-hover-text-color: rgba(195,111,0,1);
+  --unread-text-color: rgba(242,212,0,0.36);
+  --user-popup-background: rgba(0,0,0,0.5);
+  --font-size: 16px;
+  --unread-server-animation: rainbow;
+  --server-icon-size: 38px;
+  --server-icon-spacing: 8px;
+  --server-container-padding: 10px;
+  --rs-small-spacing: 2px;
+  --rs-large-spacing: 3px;
+  --rs-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #02cc00;
+  --rs-idle-color: #ffc107;
+  --rs-dnd-color: #d80000;
+  --rs-offline-color: #545454;
+  --rs-streaming-color: #4500bb;
+  --rs-invisible-color: #747f8d;
+  --show-gift-gif-buttons: none;
+  --update-notice-1: none;
+}

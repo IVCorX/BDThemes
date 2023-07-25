@@ -1,0 +1,30 @@
+﻿//META {"name":"NobaraREBORN","description":"Ain't my fault...","author":"『C̷๏r̫̫』#4697","version":"2.0"}*//
+@import url("https://monstrousdev.github.io/themes/phoenix-bundle/reborn.css");
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk');
+@import url('https://codedotspectra.github.io/themes/core/custom-font.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+:root {
+    --roundness: 0px;
+    --main-color: #FF6E08FF;
+    --hover-color: #A25607FF;
+    --home-color: #D66B0BFF;
+    --shadow: #FF69005D;
+    --background-image: url('https://pbs.twimg.com/media/ExbSclVXMAMbKBL.jpg');
+    --background-blur: 0px;
+    --popup-background: url('https://pbs.twimg.com/media/ExbSclVXMAMbKBL.jpg');
+    --rs-small-spacing: 2px;
+    --rs-medium-spacing: 3px;
+    --rs-large-spacing: 4px;
+    --rs-small-width: 2px;
+    --rs-medium-width: 3px;
+    --rs-large-width: 4px;
+    --rs-avatar-shape: 50%;
+    --rs-online-color: #16B52FFF;
+    --rs-idle-color: #faa61a;
+    --rs-dnd-color: #C90000FF;
+    --rs-offline-color: #756248FF;
+    --rs-streaming-color: #5E13A7FF;
+    --rs-invisible-color: #4B4B4BFF;
+    --rs-phone-visible: block;
+    --customFont: 'Space Grotesk';
+}

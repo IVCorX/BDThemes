@@ -1,0 +1,25 @@
+﻿/**
+* @name Rozaliya-Olenyeva-Fervent-Tempo-Delta
+* @version 2.0
+* @description A true generation of Fervent Tempo
+* @author 『C̷๏r̫̫』#4697
+* @invite 5TqHBWZ9Gd
+*/
+
+@import url("https://monstrousdev.github.io/themes/phoenix-bundle/reborn.css");
+@import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+@import url("https://codedotspectra.github.io/themes/core/badges.css");
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk');
+
+:root {
+--roundness: 0px;
+--main-color: #aa01ad;
+--hover-color: #0074bd;
+--home-color: #510061;
+--hover-size: 24px;
+--shadow: #460744;
+--font-size: 16px;
+--background-image: url('https://pbs.twimg.com/media/EmghwCQVkAAMij1.jpg');
+--background-blur: 0px;
+
+}

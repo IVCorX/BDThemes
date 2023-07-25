@@ -1,0 +1,100 @@
+﻿/**
+* @name Satoru Gojo
+* @version 2.0
+* @description Boku korosuu :)
+* @author 『C̷๏r̫̫』#4697
+* @invite 5TqHBWZ9Gd
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@100;300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@100;300;400;500;700&display=swap');
+@import url('https://clearvision.gitlab.io/v6/main.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/AdjustableServerWidth/base.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+
+:root {
+  --main-color: #1277eb;
+  --hover-color: #006d7b;
+  --success-color: #b20000;
+  --danger-color: #982929;
+  --url-color: #001b97;
+  --background-image: url('https://free4kwallpapers.com/uploads/wallpaper/gojo-satoru-wallpaper-1024x768-wallpaper.jpg');
+  --background-shading: 0%;
+  --background-position: center;
+  --background-size: 100%;
+  --background-repeat: no-repeat;
+  --background-attachment: fixed;
+  --background-brightness: 100%;
+  --background-contrast: 126%;
+  --background-saturation: 182%;
+  --background-grayscale: 29%;
+  --background-invert: 0%;
+  --background-blur: 0px;
+  --background-overlay: rgba(0,0,17,0.58);
+  --user-popout-image: var(--background-image);
+  --user-popout-position: center;
+  --user-popout-size: cover;
+  --user-popout-repeat: no-repeat;
+  --user-popout-attachment: fixed;
+  --user-popout-brightness: 100%;
+  --user-popout-contrast: 100%;
+  --user-popout-saturation: 100%;
+  --user-popout-grayscale: 0%;
+  --user-popout-invert: 0%;
+  --user-popout-blur: 2px;
+  --user-modal-image: url('https://free4kwallpapers.com/uploads/wallpaper/gojo-satoru-wallpaper-1024x768-wallpaper.jpg');
+  --user-modal-position: center;
+  --user-modal-size: cover;
+  --user-modal-repeat: no-repeat;
+  --user-modal-attachment: fixed;
+  --user-modal-brightness: 100%;
+  --user-modal-contrast: 100%;
+  --user-modal-saturation: 100%;
+  --user-modal-grayscale: 0%;
+  --user-modal-invert: 0%;
+  --user-modal-blur: 3px;
+  --home-icon: url('https://i.ytimg.com/vi/UTPVQNfv4iA/maxresdefault.jpg');
+  --home-position: center;
+  --home-size: 90px;
+  --channel-unread: #0018d4;
+  --channel-color: rgba(0,154,225,1);
+  --muted-color: rgba(0,116,141,1);
+  --online-color: #4caf50;
+  --idle-color: #ffc107;
+  --dnd-color: #a30000;
+  --streaming-color: #320088;
+  --offline-color: #444444;
+  --main-font: Space Grotesk;
+  --code-font: Space Grotesk;
+  --backdrop-overlay: rgba(0,0,0,0.8);
+  --backdrop-image: var(--background-image);
+  --backdrop-position: var(--background-position);
+  --backdrop-size: var(--background-size);
+  --backdrop-repeat: var(--background-repeat);
+  --backdrop-attachment: var(--background-attachment);
+  --backdrop-brightness: var(--background-brightness);
+  --backdrop-contrast: var(--background-contrast);
+  --backdrop-saturation: var(--background-saturation);
+  --backdrop-invert: var(--background-invert);
+  --backdrop-grayscale: var(--background-grayscale);
+  --backdrop-sepia: var(--background-sepia);
+  --backdrop-blur: var(--background-blur);
+  --bd-blue: var(--main-color);
+  --bd-blue-hover: var(--hover-color);
+  --bd-blue-active: var(--hover-color);
+  --channels-width: 220px;
+  --members-width: 240px;
+  --server-icon-size: 37px;
+  --server-icon-spacing: 8px;
+  --server-container-padding: 10px;
+  --rs-small-spacing: 2px;
+  --rs-large-spacing: 3px;
+  --rs-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #00b517;
+  --rs-idle-color: #ffc107;
+  --rs-dnd-color: #b80000;
+  --rs-offline-color: #3b3b3b;
+  --rs-streaming-color: #380098;
+  --rs-invisible-color: #747f8d;
+}

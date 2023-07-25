@@ -1,0 +1,51 @@
+﻿/**
+ * @name Raiden Mei - Herrscher of Thunder
+ * @author 『C̷๏r̫̫』#4697
+ * @version 2.0
+ * @description A true thunder.
+ * @invite 5TqHBWZ9Gd
+*/
+
+@import url('https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/AdjustableServerWidth/base.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+@import url("https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/base.css");
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk');
+@import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+@import url("https://codedotspectra.github.io/themes/core/badges.css");
+
+:root {
+  --background-image: url('https://images2.alphacoders.com/108/1083954.png');
+  --friends-icon: url('https://s1.zerochan.net/Herrscher.of.Thunder.600.3002291.jpg');
+  --friends-icon-zoom: 114%;
+  --friends-icon-position: center center;
+  --main-color: rgb(112,8,171);
+  --serverlist-brightness: 0.65;
+  --left-brightness: 0.75;
+  --middle-brightness: 0.55;
+  --right-brightness: 0;
+  --hover-list-bg-color: rgba(138,0,142,0.44);
+  --border-lines-color: rgba(124,10,132,1);
+  --scroll-bar-color: rgba(191,0,131,0.6);
+  --selected-text-voice-color: #ba0079;
+  --channel-hover-text-color: rgba(83,0,179,0.75);
+  --unread-text-color: rgba(88,0,222,0.72);
+  --user-popup-background: rgba(9,5,12,0.57);
+  --font-size: 16px;
+  --unread-server-animation: rainbow;
+  --server-icon-size: 39px;
+  --server-icon-spacing: 8px;
+  --server-container-padding: 10px;
+  --rs-small-spacing: 2px;
+  --rs-large-spacing: 3px;
+  --rs-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #02e000;
+  --rs-idle-color: #ffc107;
+  --rs-dnd-color: #ca0000;
+  --rs-offline-color: #424242;
+  --rs-streaming-color: #4500bd;
+  --rs-invisible-color: #747f8d;
+  --show-gift-gif-buttons: none;
+  --update-notice-1: none;
+}

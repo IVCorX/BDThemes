@@ -1,0 +1,99 @@
+/**
+ * @name Techno Girl
+ * @author 『C̷๏r̫̫』#4697
+ * @version 2.0
+ * @description UwU
+ * @invite 5TqHBWZ9Gd
+*/
+@import url("https://clearvision.gitlab.io/v6/main.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+:root {
+--main-color: #1399E6FF;
+--hover-color: #AB0EB3FF;
+--success-color: #810DB3FF;
+--danger-color: #6F0000FF;
+--url-color: #9F23E6FF;
+--online-color: #18B522FF;
+--idle-color: #FA8F00FF;
+--dnd-color: #980000FF;
+--streamig-color: #3D0089FF;
+--offline-color: #717171FF;
+--main-font: 'Inconsolata';
+--code-font: 'Space Grotesk';
+--text-normal: #dcdddeff;
+--text-muted: #663B95FF;
+--channels-width: 217px;
+--members-width: 217px;
+--background-shading: 0%;
+--background-overlay: #3B3B3BAD;
+--background-image: url('https://i.imgur.com/mCiF0RQ.jpg');
+--background-size: cover;
+--background-position: center;
+--background-repeat: no-repeat;
+--background-attachment: fixed;
+--background-brightness: 100%;
+--background-constrast: 100%;
+--background-saturation: 100%;
+--background-invert: 0%;
+--background-grayscale: 0%;
+--background-sepia: 0%;
+--background-blur: 0px;
+--home-icon: url('https://pa1.narvii.com/7786/bf8d669d006580f31a1645e810fb0541b3a5e2c9r1-640-480_hq.gif');
+--home-position: center;
+--home-size: 59px;
+--background-overlay: #00000099;
+--backdrop-image: url('https://i.imgur.com/mCiF0RQ.jpg');
+--backdrop-image: center;
+--backdrop-size: cover;
+--backdrop-repeat: repeat;
+--backdrop-attachment: fixed;
+--backdrop-brightness: 100%;
+--backdrop-constrast: 100%;
+--backdrop-saturation: 100%;
+--backdrop-invert: 0%;
+--backdrop-grayscale: 0%;
+--backdrop-sepia: 0%;
+--backdrop-blur: 0px;
+--user-popout-image: url('https://i.imgur.com/mCiF0RQ.jpg');
+--user-popout-image: center;
+--user-popout-size: cover;
+--user-popout-repeat: no-repeat;
+--user-popout-attachment: fixed;
+--user-popout-brightness: 100%;
+--user-popout-constrast: 100%;
+--user-popout-saturation: 100%;
+--user-popout-invert: 0%;
+--user-popout-grayscale: 0%;
+--user-popout-sepia: 0%;
+--user-popout-blur: 5px;
+--user-popout-overlay: #000000C4;
+--user-modal-image: url('https://i.imgur.com/mCiF0RQ.jpg');
+--user-modal-image: center;
+--user-modal-size: cover;
+--user-modal-repeat: repeat;
+--user-modal-attachment: fixed;
+--user-modal-brightness: 100%;
+--user-modal-constrast: 100%;
+--user-modal-saturation: 100%;
+--user-modal-invert: 0%;
+--user-modal-grayscale: 0%;
+--user-modal-sepia: 0%;
+--user-modal-blur: 0px;
+--bd-blue: #6B09E6FF;
+--bd-blue-hover: #1269B3FF;
+--bd-blue-active: #1923B3FF;
+--rs-small-spacing: 2px;
+--rs-medium-spacing: 3px;
+--rs-large-spacing: 4px;
+--rs-small-width: 2px;
+--rs-medium-width: 3px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #0FB519FF;
+--rs-idle-color: #FA9F00FF;
+--rs-dnd-color: #BF0000FF;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #4A00A7FF;
+--rs-invisible-color: #401D38FF;
+--rs-phone-visible: block;
+}

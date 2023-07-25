@@ -1,0 +1,36 @@
+﻿/**
+* @name Seven
+* @version 2.0
+* @description Seven assasins, one stronger than others.
+* @author 『C̷๏r̫̫』#4697
+* @invite 5TqHBWZ9Gd
+*/
+@import url("https://DiscordStyles.github.io/DarkMatter/src/base.css");
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk');
+@import url('https://codedotspectra.github.io/themes/core/custom-font.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+:root {
+--background-image: url('https://c.tenor.com/5Ab4R16zQGMAAAAC/scissor-seven-wu-liuqi.gif');
+--home-image: url('https://i.imgur.com/233d55Y.gif');
+--avatar-size: 48px;
+--accent: 125,28,232;
+--accent-alt: 38,0,134;
+--background-solid: #15093186;
+--background-solid-dark: #4F1F8BFF;
+--background-solid-darker: #0A0412FF;
+--rs-small-spacing: 2px;
+--rs-medium-spacing: 0px;
+--rs-large-spacing: 2px;
+--rs-small-width: 2px;
+--rs-medium-width: 3px;
+--rs-large-width: 1px;
+--rs-avatar-shape: 24%;
+--rs-online-color: #0C7419FF;
+--rs-idle-color: #FABA0DFF;
+--rs-dnd-color: #B70000FF;
+--rs-offline-color: #25282CFF;
+--rs-streaming-color: #421595FF;
+--rs-invisible-color: #624E8DFF;
+--rs-phone-visible: block;
+--customFont: 'Space Grotesk';
+}

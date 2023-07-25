@@ -1,0 +1,22 @@
+﻿/**
+ * @name Da Ji Sindicato
+ * @author 『C̷๏r̫̫』#4697
+ * @version 2.0
+ * @description Pio Pio and Pio.
+ * @invite 5TqHBWZ9Gd
+*/
+@import url("https://monstrousdev.github.io/themes/phoenix-bundle/reborn.css");
+@import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+@import url("https://codedotspectra.github.io/themes/core/badges.css");
+
+:root {
+--background-image: url('https://pbs.twimg.com/media/EUivPAzWoAUlCD2.jpg');
+--main-color: #d1007a;
+--hover-color: #4900a3;
+--unread-text-color: rgb(112,0,81,1);
+--home-color: #9c01a7;
+--shadow: rgba(152,1,162,0.6);
+--hover-size: 24px;
+--background-blur: 0px;
+--roundness: 0px;
+}
